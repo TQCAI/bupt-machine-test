@@ -1,6 +1,9 @@
 [OJ模板](https://blog.csdn.net/TQCAI666/article/details/85600413)
+
 当时把一些刷题技巧整理成了模板，准备带去机试的，但是考前通知不让带了（2019年）
+
 [我博客上OJ专栏](https://blog.csdn.net/tqcai666/category_8577043.html)
+
 很多刷北邮OJ的题解都放在上面，其他OJ平台的题解也有一些
 
 -   [字符串](#字符串)
